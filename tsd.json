@@ -1,0 +1,63 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "orchestrator/orchestrator.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "node/node.d.ts": {
+      "commit": "d22516f9f089de107d7e7d5938566377370631f6"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "q/Q.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "mime/mime.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "express/express.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "vinyl/vinyl.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp-util/gulp-util.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "chalk/chalk.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "through2/through2.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "cookie-parser/cookie-parser.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp-debug/gulp-debug.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp-inject/gulp-inject.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp-sourcemaps/gulp-sourcemaps.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "gulp-nodemon/gulp-nodemon.d.ts": {
+      "commit": "d22516f9f089de107d7e7d5938566377370631f6"
+    }
+  }
+}

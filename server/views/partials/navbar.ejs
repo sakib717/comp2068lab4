@@ -1,0 +1,16 @@
+<ul class="nav nav-pills">
+    
+  <% if(title === "Home"){%>
+  <li role="presentation" class="active"><a href="/">Home</a></li>
+  <li role="presentation"><a href="/profile">Profile</a></li>
+  <li role="presentation"><a href="/messages">Messages</a></li>
+  <% } else if(title == "Profile") { %>
+   <li role="presentation"><a href="/">Home</a></li>
+  <li role="presentation" "class="active"><a href="/profile">Profile</a></li>
+  <li role="presentation"><a href="/messages">Messages</a></li>
+  <% } else if(title == "Messages") { %>
+  <li role="presentation"><a href="/">Home</a></li>
+  <li role="presentation"><a href="/profile">Profile</a></li>
+  <li role="presentation" "class="active"><a href="/messages">Messages</a></li>
+  <% } %>
+</ul>

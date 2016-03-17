@@ -1,0 +1,24 @@
+{
+  "name": "comp2068-lab4",
+  "description": "A Project for Comp2068lab4",
+  "main": "",
+  "authors": [
+    "Sakib Patel"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
